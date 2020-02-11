@@ -2,13 +2,12 @@
 #define UtilityFunction
 
 #include <iostream>
+#include <vector>
 
-class UtilityFunction{
+class UtilityFunctions{
     public:
-        std::vector<bool> EvenMask(std::vector<int>);
+        std::vector<bool> EvenMask(std::vector<int> nums);
     
-    private:
-        std::vector<int> nums;
 };
 
 #endif
