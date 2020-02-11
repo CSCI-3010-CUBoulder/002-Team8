@@ -1,4 +1,4 @@
-https://travis-ci.org/CSCI-3010-CUBoulder/002-Team8.svg?branch=master
+[![Build Status](https://travis-ci.org/CSCI-3010-CUBoulder/002-Team8.svg?branch=master)](https://travis-ci.org/CSCI-3010-CUBoulder/002-Team8)
 
 #002-Team8
 
