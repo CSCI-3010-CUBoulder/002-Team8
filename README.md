@@ -5,5 +5,11 @@
 - yo yo yo
 - Sihien
 - Mason
-- Booby
-sdafdsfsdsdafsdfasd
+- Bobby
+
+Continuous Integration:
+  Ensures that the code compiles
+  Ensures that unit tests pass
+  Monitor's code base, and when changes are made, it will fire a job (or jobs) to check various things.
+  TravisCI Basically a compiler.
+  Add a .travis.yml to root directory
