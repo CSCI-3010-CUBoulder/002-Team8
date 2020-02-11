@@ -1,5 +1,5 @@
 #ifndef UtilityFunction_
-#define UtilityFunction
+#define UtilityFunction_
 
 #include <iostream>
 #include <vector>
