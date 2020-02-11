@@ -9,4 +9,5 @@ std::vector<bool> UtilityFunctions::EvenMask(std::vector<int> nums){
             even.push_back(0);
         }
     }
+    return even;
 }
