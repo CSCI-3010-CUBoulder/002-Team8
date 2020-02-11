@@ -7,7 +7,7 @@
 class UtilityFunctions{
     public:
         std::vector<bool> EvenMask(std::vector<int> nums);
-    
+
 };
 
 #endif
