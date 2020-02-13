@@ -1,18 +1,9 @@
 #include "UtilityFunctions.h"
+#include "catch.hpp"
 
-int Factorial(int n){
-  int FacSum = 1;
-  if(n == 0){
-    return 1;
-  }
-  for (int i = 1; i < n; i++) {
-    FacSum = FacSum * i;
-  }
-  return FacSum;
+int main(int argc, char** argv){
+  UtilityFunctions* f = new UtilityFunctions();
+  std::cout << f->Factorial(2) << std::endl;
+  std::vector<bool> test = f->EvenMask({1, 2, 3, 4, 5});
 }
 
-
-
-int main(){
-
-}
